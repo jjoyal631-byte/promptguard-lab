@@ -1,0 +1,2 @@
+SHA-256 data/scenarios.json: 6a85de60efc2badb3b5cf7fb5811051888f6015a12bdd6bcdb7860e8bdefedad
+Recompute after intentional scenario edits (python -m promptguard validate --write-hash); never compare runs across different hashes without noting the change.
